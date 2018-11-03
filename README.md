@@ -7,4 +7,4 @@ Flutter Examples:
 <br/>
 <a href="https://github.com/SevkiBekir/Flutter/tree/master/login_with_bloc"> Login Screen with Bloc Project</a>: login screen using bloc and rxdart
 <br/>
-<a href="https://github.com/SevkiBekir/Flutter/tree/master/animation"> Animation App Project: using animation and animation class to generate cat animation
+<a href="https://github.com/SevkiBekir/Flutter/tree/master/animation"> Animation App Project: </a>using animation and animation class to generate cat animation
